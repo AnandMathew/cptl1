@@ -6,3 +6,5 @@ Generates information about the comments in a file; implemented using a state ma
 important assumption: chose to make it work for languages that use // , /* type of comments (Java, Javscript, C++)
 
 a similar state implmentation can be used for other commenting styles too.
+
+To run: clone the repo and `python cmtCount.py [test file]`
